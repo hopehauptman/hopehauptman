@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hopehauptman
-- 👀 I’m interested in Environemntal Science
+- 👀 I’m interested in environmental science
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
